@@ -1,5 +1,7 @@
 # IPENYA279_PTO2306_GROUPA_IPELENGNYATLO_ITW_DIGITAL-RESUME
 
+Name: Ipeleng Nyatlo
+Project name: ITW_Final Digital Resume
 A demonstration of my learning and understanding of HTML and CSS with the concepts listed below, by creating a Digital Resumé/Portfolio with the following:
 
 Basics of HTML and Coding
